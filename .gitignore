@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary/Cache files
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+preview.jpg
+*.mp4
+*.mkv
+*.mov
+*.srt
+*.ass
+*.vtt
